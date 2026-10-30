@@ -28,6 +28,20 @@ De gewenste connector wordt daarna vanuit **Instellingen > Plugins** gekozen.
 De configuratie staat op Toon in `/mnt/data/tsc/mhi.json`. Updates vervangen
 dit bestand en afzonderlijk opgeslagen ESPHome API-sleutels niet.
 
+## Schermafbeeldingen
+
+### Bediening
+
+![Bediening van een MHI-airco op Toon](docs/screenshots/remote.png)
+
+### Airco toevoegen
+
+![Lokale connector voor WF-RAC of ESPHome kiezen](docs/screenshots/add-unit.png)
+
+### Pluginbeheer
+
+![Geïnstalleerde WF-RAC- en ESPHome-plugins](docs/screenshots/plugins.png)
+
 ## Privacy
 
 De app houdt geen historische meetlog bij. Het repository bevat geen
