@@ -1,0 +1,2 @@
+#!/bin/sh
+/qmf/bin/mhi-service.sh start

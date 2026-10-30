@@ -1,0 +1,7 @@
+0.2.1
+- Eerste openbare TSC-DEV-kandidaat.
+- Lokale WF-RAC- en ESPHome-connectorplugins.
+- Bediening van meerdere airco's, lamellen en ventilatorstand.
+- Compacte liveweergave zonder meetlog.
+- Optionele blokkering van koelen per airco bij CV-warmtevraag.
+- Configuratie en Toon-tegels blijven behouden bij updates.

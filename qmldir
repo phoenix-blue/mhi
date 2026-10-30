@@ -1,0 +1,12 @@
+module apps.mhi
+MhiApp 1.0 MhiApp.qml
+MhiTile 1.0 MhiTile.qml
+MhiScreen 1.0 MhiScreen.qml
+MhiAddUnit 1.0 MhiAddUnit.qml
+MhiButton 1.0 MhiButton.qml
+MhiRemote 1.0 MhiRemote.qml
+MhiOverview 1.0 MhiOverview.qml
+MhiLive 1.0 MhiLive.qml
+MhiUnitTile 1.0 MhiUnitTile.qml
+MhiAirflow 1.0 MhiAirflow.qml
+MhiFan 1.0 MhiFan.qml

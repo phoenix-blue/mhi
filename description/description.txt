@@ -1,0 +1,1 @@
+MHI Airco voor Toon 2 bedient één of meer Mitsubishi Heavy Industries-airco's via lokale WF-RAC- of ESPHome-plugins. Per airco kan Koelen worden geblokkeerd zolang Toon een bevestigde CV-warmtevraag meldt. Auto en Drogen blijven beschikbaar. De compacte liveweergave toont alleen actuele kernwaarden en schrijft geen meetlog.
